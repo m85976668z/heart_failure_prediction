@@ -5,7 +5,7 @@ This project wants to build a prediction model using logistic regression model t
 # Data source
 
 The data is extracted from kaggle: https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
-I also upload the data, you can download it here: [Data]((https://github.com/m85976668z/heart_failure_prediction/blob/master/heart.csv)
+I also upload the data, you can download it here: [Data](https://github.com/m85976668z/heart_failure_prediction/blob/master/heart.csv)
 
 # Code:
 
