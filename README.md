@@ -1,6 +1,6 @@
 # heart_failure_prediction
 
-This project wants to build a prediction model using logistic regression model to predict the death event when heart attack occurs. It involved an interesting comparison between data science and statistics.
+This project wants to build a prediction model using different machine learning models, include Logistic Regression Model, Random Forest and SVM.
 
 # Data source
 
